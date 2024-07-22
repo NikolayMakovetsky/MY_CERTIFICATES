@@ -1,6 +1,8 @@
 # MY_CERTIFICATES_HERE
 
 ## Платформа Stepic.org ##
+- [ ] XX.XX.XXXX &nbsp; | &nbsp; Python Тренажер
+- [ ] XX.XX.XXXX &nbsp; | &nbsp; Интерактивный тренажер по SQL
 
 ## Центр «Специалист» при МГТУ им. Баумана ##
 - [x] 26.04.2024 &nbsp; | &nbsp; Анализ данных на языке SQL. Уровень 2
